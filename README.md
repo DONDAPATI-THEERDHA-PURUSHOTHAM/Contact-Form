@@ -47,11 +47,6 @@ contact-form/
 - Shows success message on valid input
 - Uses `form.reset()` after success
 
-## 🛡️ Security Tips
-- Always **sanitize inputs** even if validated on client-side
-- Use **server-side validation** for real-world apps
-- Escape content to prevent **XSS attacks**
-
 ## 📦 Future Improvements
 - Add backend using PHP/Node.js to store or send emails
 - Real-time validation while typing
